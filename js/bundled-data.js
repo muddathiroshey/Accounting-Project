@@ -1,0 +1,4948 @@
+window.__ACCOUNTING_FALLBACK__ = {
+  accounts: [
+    {
+        "code":  "1",
+        "name":  "الأصول",
+        "level":  1,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  false
+    },
+    {
+        "code":  "101",
+        "name":  "الأصول الثابتة",
+        "level":  3,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  false
+    },
+    {
+        "code":  "101001",
+        "name":  "الأصول الثابتة - ثلاجات التبريد",
+        "level":  6,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  false
+    },
+    {
+        "code":  "101001001",
+        "name":  "الأصول الثابتة - ثلاجة التبريد  -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "101001002",
+        "name":  "الأصول الثابتة - ثلاجة التبريد  -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "101001003",
+        "name":  "الأصول الثابتة - ثلاجة التبريد  -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "101001004",
+        "name":  "الأصول الثابتة - ثلاجة التبريد  -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "101001005",
+        "name":  "الأصول الثابتة - ثلاجة التبريد  -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "101001006",
+        "name":  "الأصول الثابتة - ثلاجة التبريد  -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "101001007",
+        "name":  "الأصول الثابتة - ثلاجة التبريد  -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "101001008",
+        "name":  "الأصول الثابتة - ثلاجة التبريد  -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "101001009",
+        "name":  "الأصول الثابتة - ثلاجة التبريد  -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "101001010",
+        "name":  "الأصول الثابتة - ثلاجة التبريد  -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "101002",
+        "name":  "الأصول الثابتة - كباسات التبريد",
+        "level":  6,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  false
+    },
+    {
+        "code":  "101002001",
+        "name":  "الأصول الثابتة - كباتسات تبريد -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "101002002",
+        "name":  "الأصول الثابتة - كباتسات تبريد -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "101002003",
+        "name":  "الأصول الثابتة - كباتسات تبريد -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "101002004",
+        "name":  "الأصول الثابتة - كباتسات تبريد -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "101002005",
+        "name":  "الأصول الثابتة - كباتسات تبريد -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "101002006",
+        "name":  "الأصول الثابتة - كباتسات تبريد -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "101002007",
+        "name":  "الأصول الثابتة - كباتسات تبريد -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "101002008",
+        "name":  "الأصول الثابتة - كباتسات تبريد -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "101002009",
+        "name":  "الأصول الثابتة - كباتسات تبريد -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "101002010",
+        "name":  "الأصول الثابتة - كباتسات تبريد -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "101003",
+        "name":  "الأصول الثابتة - كمبيوتر و طابعات و برامج",
+        "level":  6,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  false
+    },
+    {
+        "code":  "101003001",
+        "name":  "الأصول الثابتة - كمبيوتر  وطابعات - Lap top",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "101003002",
+        "name":  "الأصول الثابتة - كمبيوتر  وطابعات - Disk top",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "101003003",
+        "name":  "الأصول الثابتة - كمبيوتر  وطابعات -  طابعات",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "101003004",
+        "name":  "الأصول الثابتة - كمبيوتر  وطابعات - ماكينة تصوير",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "101003005",
+        "name":  "الأصول الثابتة - كمبيوتر  وطابعات -  تابلت",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "101003006",
+        "name":  "الأصول الثابتة - كمبيوتر  وطابعات -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "101003007",
+        "name":  "الأصول الثابتة - كمبيوتر  وطابعات -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "101003008",
+        "name":  "الأصول الثابتة - كمبيوتر  وطابعات -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "101003009",
+        "name":  "الأصول الثابتة - كمبيوتر  وطابعات -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "101003010",
+        "name":  "الأصول الثابتة - كمبيوتر  وطابعات -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "101004",
+        "name":  "الأصول الثابتة - ماكينات التعبئة و التغليف",
+        "level":  6,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  false
+    },
+    {
+        "code":  "101004001",
+        "name":  "الأصول الثابتة - ماكينات التعبئة و التغليف -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "101004002",
+        "name":  "الأصول الثابتة - ماكينات التعبئة و التغليف -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "101004003",
+        "name":  "الأصول الثابتة - ماكينات التعبئة و التغليف -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "101004004",
+        "name":  "الأصول الثابتة - ماكينات التعبئة و التغليف -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "101004005",
+        "name":  "الأصول الثابتة - ماكينات التعبئة و التغليف -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "101004006",
+        "name":  "الأصول الثابتة - ماكينات التعبئة و التغليف -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "101004007",
+        "name":  "الأصول الثابتة - ماكينات التعبئة و التغليف -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "101004008",
+        "name":  "الأصول الثابتة - ماكينات التعبئة و التغليف -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "101004009",
+        "name":  "الأصول الثابتة - ماكينات التعبئة و التغليف -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "101004010",
+        "name":  "الأصول الثابتة - ماكينات التعبئة و التغليف -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "101005",
+        "name":  "الأصول الثابتة -  الميزان الالكترونى",
+        "level":  6,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  false
+    },
+    {
+        "code":  "101005001",
+        "name":  "الأصول الثابتة - الميزان الالكترونى -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "101005002",
+        "name":  "الأصول الثابتة - الميزان الالكترونى -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "101005003",
+        "name":  "الأصول الثابتة - الميزان الالكترونى -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "101005004",
+        "name":  "الأصول الثابتة - الميزان الالكترونى -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "101005005",
+        "name":  "الأصول الثابتة - الميزان الالكترونى -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "101005006",
+        "name":  "الأصول الثابتة - الميزان الالكترونى -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "101005007",
+        "name":  "الأصول الثابتة - الميزان الالكترونى -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "101005008",
+        "name":  "الأصول الثابتة - الميزان الالكترونى -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "101005009",
+        "name":  "الأصول الثابتة - الميزان الالكترونى -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "101005010",
+        "name":  "الأصول الثابتة - الميزان الالكترونى -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "102",
+        "name":  "البنوك و النقدية",
+        "level":  3,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  false
+    },
+    {
+        "code":  "102001",
+        "name":  "حسابات البنوك",
+        "level":  6,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  false
+    },
+    {
+        "code":  "102001001",
+        "name":  "حساب بنك - CIB - بالجنية المصرى",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "102001002",
+        "name":  "حساب بنك - CIB - بالدولار",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "102001003",
+        "name":  "حساب بنك -  CPS - CIB",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "102001004",
+        "name":  "حساب نقدية بالصندوق",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "102001005",
+        "name":  "حساب بنك -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "102001006",
+        "name":  "حساب بنك -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "102001007",
+        "name":  "حساب بنك -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "102001008",
+        "name":  "حساب بنك -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "102001009",
+        "name":  "حساب بنك -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "102001010",
+        "name":  "حساب بنك -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "102002",
+        "name":  "حسابات النقدية",
+        "level":  6,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  false
+    },
+    {
+        "code":  "102002001",
+        "name":  "نقدية بالخزينة - الرئيسية -  بالجنية المصرى",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "102002002",
+        "name":  "نقدية بالخزينة - الرئيسية - بالدولار",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "102002003",
+        "name":  "نقدية بالخزينة - الرئيسية -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "102002004",
+        "name":  "نقدية بالخزينة - الرئيسية -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "102002005",
+        "name":  "نقدية بالخزينة - الرئيسية -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "102002006",
+        "name":  "نقدية بالخزينة - الرئيسية -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "102002007",
+        "name":  "نقدية بالخزينة - الرئيسية -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "102002008",
+        "name":  "نقدية بالخزينة - الرئيسية -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "102002009",
+        "name":  "نقدية بالخزينة - الرئيسية -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "102002010",
+        "name":  "نقدية بالخزينة - الرئيسية -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "102003",
+        "name":  "العهد المؤقتة",
+        "level":  6,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  false
+    },
+    {
+        "code":  "102003001",
+        "name":  "العهد المؤقتة -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "102003002",
+        "name":  "العهد المؤقتة -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "102003003",
+        "name":  "العهد المؤقتة -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "102003004",
+        "name":  "العهد المؤقتة -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "102003005",
+        "name":  "العهد المؤقتة -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "102003006",
+        "name":  "العهد المؤقتة -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "102003007",
+        "name":  "العهد المؤقتة -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "102003008",
+        "name":  "العهد المؤقتة -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "102003009",
+        "name":  "العهد المؤقتة -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "102003010",
+        "name":  "العهد المؤقتة -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "103",
+        "name":  "العملاء",
+        "level":  3,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  false
+    },
+    {
+        "code":  "103001",
+        "name":  "عملاء - محليين",
+        "level":  6,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  false
+    },
+    {
+        "code":  "103001001",
+        "name":  "عملاء - محليين -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "103001002",
+        "name":  "عملاء - محليين -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "103001003",
+        "name":  "عملاء - محليين -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "103001004",
+        "name":  "عملاء - محليين -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "103001005",
+        "name":  "عملاء - محليين -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "103001006",
+        "name":  "عملاء - محليين -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "103001007",
+        "name":  "عملاء - محليين -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "103001008",
+        "name":  "عملاء - محليين -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "103001009",
+        "name":  "عملاء - محليين -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "103001010",
+        "name":  "عملاء - محليين -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "103002",
+        "name":  "عملاء - جملة",
+        "level":  6,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  false
+    },
+    {
+        "code":  "103002001",
+        "name":  "عملاء - جملة -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "103002002",
+        "name":  "عملاء - جملة -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "103002003",
+        "name":  "عملاء - جملة -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "103002004",
+        "name":  "عملاء - جملة -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "103002005",
+        "name":  "عملاء - جملة -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "103002006",
+        "name":  "عملاء - جملة -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "103002007",
+        "name":  "عملاء - جملة -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "103002008",
+        "name":  "عملاء - جملة -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "103002009",
+        "name":  "عملاء - جملة -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "103002010",
+        "name":  "عملاء - جملة -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "103003",
+        "name":  "عملاء - تصدير",
+        "level":  6,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  false
+    },
+    {
+        "code":  "103003001",
+        "name":  "عملاء - تصدير -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "103003002",
+        "name":  "عملاء - تصدير -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "103003003",
+        "name":  "عملاء - تصدير -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "103003004",
+        "name":  "عملاء - تصدير -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "103003005",
+        "name":  "عملاء - تصدير -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "103003006",
+        "name":  "عملاء - تصدير -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "103003007",
+        "name":  "عملاء - تصدير -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "103003008",
+        "name":  "عملاء - تصدير -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "103003009",
+        "name":  "عملاء - تصدير -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "103003010",
+        "name":  "عملاء - تصدير -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "104",
+        "name":  "مدينون متنوعون",
+        "level":  3,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  false
+    },
+    {
+        "code":  "104001",
+        "name":  "الإيرادات المستحقة",
+        "level":  6,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  false
+    },
+    {
+        "code":  "104001001",
+        "name":  "الإيرادات المستحقة -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "104001002",
+        "name":  "الإيرادات المستحقة -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "104001003",
+        "name":  "الإيرادات المستحقة -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "104001004",
+        "name":  "الإيرادات المستحقة -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "104001005",
+        "name":  "الإيرادات المستحقة -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "104001006",
+        "name":  "الإيرادات المستحقة -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "104001007",
+        "name":  "الإيرادات المستحقة -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "104001008",
+        "name":  "الإيرادات المستحقة -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "104001009",
+        "name":  "الإيرادات المستحقة -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "104001010",
+        "name":  "الإيرادات المستحقة -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "104002",
+        "name":  "المصروفات المقدمة",
+        "level":  6,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  false
+    },
+    {
+        "code":  "104002001",
+        "name":  "مصروفات مقدمة  -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "104002002",
+        "name":  "مصروفات مقدمة  -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "104002003",
+        "name":  "مصروفات مقدمة  -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "104002004",
+        "name":  "مصروفات مقدمة  -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "104002005",
+        "name":  "مصروفات مقدمة  -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "104002006",
+        "name":  "مصروفات مقدمة  -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "104002007",
+        "name":  "مصروفات مقدمة  -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "104002008",
+        "name":  "مصروفات مقدمة  -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "104002009",
+        "name":  "مصروفات مقدمة  -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "104002010",
+        "name":  "مصروفات مقدمة  -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "104003",
+        "name":  "تأمينات لدى الغير",
+        "level":  6,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  false
+    },
+    {
+        "code":  "104003001",
+        "name":  "تأمينات لدى الغير -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "104003002",
+        "name":  "تأمينات لدى الغير -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "104003003",
+        "name":  "تأمينات لدى الغير -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "104003004",
+        "name":  "تأمينات لدى الغير -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "104003005",
+        "name":  "تأمينات لدى الغير -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "104003006",
+        "name":  "تأمينات لدى الغير -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "104003007",
+        "name":  "تأمينات لدى الغير -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "104003008",
+        "name":  "تأمينات لدى الغير -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "104003009",
+        "name":  "تأمينات لدى الغير -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "104003010",
+        "name":  "تأمينات لدى الغير -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "104004",
+        "name":  "ضرائب مدينة",
+        "level":  6,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  false
+    },
+    {
+        "code":  "104004001",
+        "name":  "ضرائب مدينة - خصم من المنبع",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "104004002",
+        "name":  "ضرائب مدينة -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "104004003",
+        "name":  "ضرائب مدينة -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "104004004",
+        "name":  "ضرائب مدينة -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "104004005",
+        "name":  "ضرائب مدينة -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "104004006",
+        "name":  "ضرائب مدينة -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "104004007",
+        "name":  "ضرائب مدينة -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "104004008",
+        "name":  "ضرائب مدينة -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "104004009",
+        "name":  "ضرائب مدينة -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "104004010",
+        "name":  "ضرائب مدينة -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "104005",
+        "name":  "أرصدة مدينة أخرى",
+        "level":  6,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  false
+    },
+    {
+        "code":  "104005001",
+        "name":  "أرصدة مدينة أخرى - سلف عاملين",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "104005002",
+        "name":  "أرصدة مدينة أخرى -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "104005003",
+        "name":  "أرصدة مدينة أخرى -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "104005004",
+        "name":  "أرصدة مدينة أخرى -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "104005005",
+        "name":  "أرصدة مدينة أخرى -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "104005006",
+        "name":  "أرصدة مدينة أخرى -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "104005007",
+        "name":  "أرصدة مدينة أخرى -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "104005008",
+        "name":  "أرصدة مدينة أخرى -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "104005009",
+        "name":  "أرصدة مدينة أخرى -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "104005010",
+        "name":  "أرصدة مدينة أخرى -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "105",
+        "name":  "المخزون",
+        "level":  3,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  false
+    },
+    {
+        "code":  "105001",
+        "name":  "مخزن - الثلاجة رقم 1",
+        "level":  6,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  false
+    },
+    {
+        "code":  "105001001",
+        "name":  "مخزون - ثلاجة رقم 1 - تمور خام",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "105001002",
+        "name":  "مخزون - ثلاجة رقم 1 - تمور تحت التشغيل",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "105001003",
+        "name":  "مخزون - ثلاجة رقم 1 - تمور جاهزة للبيع",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "105001004",
+        "name":  "مخزون - ثلاجة رقم 1 -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "105001005",
+        "name":  "مخزون - ثلاجة رقم 1 -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "105001006",
+        "name":  "مخزون - ثلاجة رقم 1 -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "105001007",
+        "name":  "مخزون - ثلاجة رقم 1 -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "105001008",
+        "name":  "مخزون - ثلاجة رقم 1 -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "105001009",
+        "name":  "مخزون - ثلاجة رقم 1 -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "105001010",
+        "name":  "مخزون - ثلاجة رقم 1 -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "105002",
+        "name":  "مخزن - الثلاجة رقم 2",
+        "level":  6,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  false
+    },
+    {
+        "code":  "105002001",
+        "name":  "مخزون - ثلاجة رقم 2 - تمور خام",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "105002002",
+        "name":  "مخزون - ثلاجة رقم 2 - تمور تحت التشغيل",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "105002003",
+        "name":  "مخزون - ثلاجة رقم 2 - تمور جاهزة للبيع",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "105002004",
+        "name":  "مخزون - ثلاجة رقم 2 -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "105002005",
+        "name":  "مخزون - ثلاجة رقم 2 -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "105002006",
+        "name":  "مخزون - ثلاجة رقم 2 -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "105002007",
+        "name":  "مخزون - ثلاجة رقم 2 -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "105002008",
+        "name":  "مخزون - ثلاجة رقم 2 -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "105002009",
+        "name":  "مخزون - ثلاجة رقم 2 -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "105002010",
+        "name":  "مخزون - ثلاجة رقم 2 -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "105003",
+        "name":  "مخزن - الثلاجة رقم 3",
+        "level":  6,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  false
+    },
+    {
+        "code":  "105003001",
+        "name":  "مخزون - ثلاجة رقم 3 - تمور خام",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "105003002",
+        "name":  "مخزون - ثلاجة رقم 3 - تمور تحت التشغيل",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "105003003",
+        "name":  "مخزون - ثلاجة رقم 3 - تمور جاهزة للبيع",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "105003004",
+        "name":  "مخزون - ثلاجة رقم 3 -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "105003005",
+        "name":  "مخزون - ثلاجة رقم 3 -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "105003006",
+        "name":  "مخزون - ثلاجة رقم 3 -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "105003007",
+        "name":  "مخزون - ثلاجة رقم 3 -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "105003008",
+        "name":  "مخزون - ثلاجة رقم 3 -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "105003009",
+        "name":  "مخزون - ثلاجة رقم 3 -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "105003010",
+        "name":  "مخزون - ثلاجة رقم 3 -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "105004",
+        "name":  "مخزن - مواد التعبئة و التغليف",
+        "level":  6,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  false
+    },
+    {
+        "code":  "105004001",
+        "name":  "مواد التعبئة و التغليف - كرتون",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "105004002",
+        "name":  "مواد التعبئة و التغليف -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "105004003",
+        "name":  "مواد التعبئة و التغليف -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "105004004",
+        "name":  "مواد التعبئة و التغليف -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "105004005",
+        "name":  "مواد التعبئة و التغليف -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "105004006",
+        "name":  "مواد التعبئة و التغليف -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "105004007",
+        "name":  "مواد التعبئة و التغليف -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "105004008",
+        "name":  "مواد التعبئة و التغليف -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "105004009",
+        "name":  "مواد التعبئة و التغليف -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "105004010",
+        "name":  "مواد التعبئة و التغليف -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "105005",
+        "name":  "مخزن - مواد ومهمات",
+        "level":  6,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  false
+    },
+    {
+        "code":  "105005001",
+        "name":  "مواد و مهمات -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "105005002",
+        "name":  "مواد و مهمات -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "105005003",
+        "name":  "مواد و مهمات -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "105005004",
+        "name":  "مواد و مهمات -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "105005005",
+        "name":  "مواد و مهمات -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "105005006",
+        "name":  "مواد و مهمات -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "105005007",
+        "name":  "مواد و مهمات -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "105005008",
+        "name":  "مواد و مهمات -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "105005009",
+        "name":  "مواد و مهمات -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "105005010",
+        "name":  "مواد و مهمات -",
+        "level":  9,
+        "type":  "asset",
+        "natural_balance":  "debit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "2",
+        "name":  "الإلتزامات و حقوق الكلمية",
+        "level":  1,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  false
+    },
+    {
+        "code":  "201",
+        "name":  "حسابات رأس المال",
+        "level":  3,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  false
+    },
+    {
+        "code":  "201001",
+        "name":  "رأس المال المدفوع",
+        "level":  6,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  false
+    },
+    {
+        "code":  "201001001",
+        "name":  "رأس المال - راس المال المدفوع",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "201001002",
+        "name":  "رأس المال -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "201001003",
+        "name":  "رأس المال -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "201001004",
+        "name":  "رأس المال -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "201001005",
+        "name":  "رأس المال -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "201001006",
+        "name":  "رأس المال -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "201001007",
+        "name":  "رأس المال -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "201001008",
+        "name":  "رأس المال -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "201001009",
+        "name":  "رأس المال -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "201001010",
+        "name":  "رأس المال -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "201002",
+        "name":  "زيادة رأس المال",
+        "level":  6,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  false
+    },
+    {
+        "code":  "201002001",
+        "name":  "زيادة رأس المال -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "201002002",
+        "name":  "زيادة رأس المال -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "201002003",
+        "name":  "زيادة رأس المال -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "201002004",
+        "name":  "زيادة رأس المال -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "201002005",
+        "name":  "زيادة رأس المال -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "201002006",
+        "name":  "زيادة رأس المال -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "201002007",
+        "name":  "زيادة رأس المال -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "201002008",
+        "name":  "زيادة رأس المال -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "201002009",
+        "name":  "زيادة رأس المال -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "201002010",
+        "name":  "زيادة رأس المال -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "201003",
+        "name":  "الارباح و الخسائر",
+        "level":  6,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  false
+    },
+    {
+        "code":  "201003001",
+        "name":  "الارباح و الخسائر - أرباح وخسائر العام",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "201003002",
+        "name":  "الارباح و الخسائر - سنوات سابقة",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "201003003",
+        "name":  "الارباح و الخسائر - تقييم حسابات جارية بالعملة الاجنبية",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "201003004",
+        "name":  "الارباح و الخسائر -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "201003005",
+        "name":  "الارباح و الخسائر -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "201003006",
+        "name":  "الارباح و الخسائر -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "201003007",
+        "name":  "الارباح و الخسائر -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "201003008",
+        "name":  "الارباح و الخسائر -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "201003009",
+        "name":  "الارباح و الخسائر -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "201003010",
+        "name":  "الارباح و الخسائر -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "202",
+        "name":  "التزمات غير متداولة",
+        "level":  3,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  false
+    },
+    {
+        "code":  "202001",
+        "name":  "التزمات الايجار",
+        "level":  6,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  false
+    },
+    {
+        "code":  "202001001",
+        "name":  "الايجار -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "202001002",
+        "name":  "الايجار -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "202001003",
+        "name":  "الايجار -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "202001004",
+        "name":  "الايجار -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "202001005",
+        "name":  "الايجار -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "202001006",
+        "name":  "الايجار -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "202001007",
+        "name":  "الايجار -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "202001008",
+        "name":  "الايجار -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "202001009",
+        "name":  "الايجار -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "202001010",
+        "name":  "الايجار -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "202002",
+        "name":  "قروض طويلة الاجل",
+        "level":  6,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  false
+    },
+    {
+        "code":  "202002001",
+        "name":  "قروض طويلة الاجل -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "202002002",
+        "name":  "قروض طويلة الاجل -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "202002003",
+        "name":  "قروض طويلة الاجل -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "202002004",
+        "name":  "قروض طويلة الاجل -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "202002005",
+        "name":  "قروض طويلة الاجل -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "202002006",
+        "name":  "قروض طويلة الاجل -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "202002007",
+        "name":  "قروض طويلة الاجل -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "202002008",
+        "name":  "قروض طويلة الاجل -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "202002009",
+        "name":  "قروض طويلة الاجل -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "202002010",
+        "name":  "قروض طويلة الاجل -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203",
+        "name":  "التزمات متداولة",
+        "level":  3,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  false
+    },
+    {
+        "code":  "203001",
+        "name":  "الموردين",
+        "level":  6,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  false
+    },
+    {
+        "code":  "203001001",
+        "name":  "الموردين -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203001002",
+        "name":  "الموردين -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203001003",
+        "name":  "الموردين -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203001004",
+        "name":  "الموردين -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203001005",
+        "name":  "الموردين -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203001006",
+        "name":  "الموردين -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203001007",
+        "name":  "الموردين -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203001008",
+        "name":  "الموردين -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203001009",
+        "name":  "الموردين -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203001010",
+        "name":  "الموردين -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203002",
+        "name":  "المخصصات",
+        "level":  6,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  false
+    },
+    {
+        "code":  "203002001",
+        "name":  "مخصصات -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203002002",
+        "name":  "مخصصات -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203002003",
+        "name":  "مخصصات -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203002004",
+        "name":  "مخصصات -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203002005",
+        "name":  "مخصصات -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203002006",
+        "name":  "مخصصات -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203002007",
+        "name":  "مخصصات -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203002008",
+        "name":  "مخصصات -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203002009",
+        "name":  "مخصصات -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203002010",
+        "name":  "مخصصات -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203003",
+        "name":  "حساب جارى الشركاء",
+        "level":  6,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  false
+    },
+    {
+        "code":  "203003001",
+        "name":  "حساب جارى الشركاء-",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203003002",
+        "name":  "حساب جارى الشركاء-",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203003003",
+        "name":  "حساب جارى الشركاء-",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203003004",
+        "name":  "حساب جارى الشركاء-",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203003005",
+        "name":  "حساب جارى الشركاء-",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203003006",
+        "name":  "حساب جارى الشركاء-",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203003007",
+        "name":  "حساب جارى الشركاء-",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203003008",
+        "name":  "حساب جارى الشركاء-",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203003009",
+        "name":  "حساب جارى الشركاء-",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203003010",
+        "name":  "حساب جارى الشركاء-",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203004",
+        "name":  "ضرائب دائنة",
+        "level":  6,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  false
+    },
+    {
+        "code":  "203004001",
+        "name":  "ضرائب دائنة - ضرائب القيمة المضافة",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203004002",
+        "name":  "ضرائب دائنة - ضرائب كسب العمل",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203004003",
+        "name":  "ضرائب دائنة - ضرائب الارباح التجارية و الصناعية 1%",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203004004",
+        "name":  "ضرائب دائنة - ضرائب الارباح التجارية و الصناعية 3%",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203004005",
+        "name":  "ضرائب دائنة - ضرائب الارباح التجارية و الصناعية 5%",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203004006",
+        "name":  "ضرائب دائنة -  ضرائب الدخل ( مصلحة الضرائب العامة )",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203004007",
+        "name":  "ضرائب دائنة -  المساهمة التكافلية - تأمين صحى",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203004008",
+        "name":  "ضرائب دائنة - ضريبة توزيعات أرباح",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203004009",
+        "name":  "ضرائب دائنة -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203004010",
+        "name":  "ضرائب دائنة -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203005",
+        "name":  "المصروفات المستحقة",
+        "level":  6,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  false
+    },
+    {
+        "code":  "203005001",
+        "name":  "المصروفات المستحقة - صافى المرتبات المستحقة",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203005002",
+        "name":  "المصروفات المستحقة - إيجارات مستحقة",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203005003",
+        "name":  "المصروفات المستحقة - مصروفات مستحقة",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203005004",
+        "name":  "المصروفات المستحقة -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203005005",
+        "name":  "المصروفات المستحقة -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203005006",
+        "name":  "المصروفات المستحقة -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203005007",
+        "name":  "المصروفات المستحقة -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203005008",
+        "name":  "المصروفات المستحقة -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203005009",
+        "name":  "المصروفات المستحقة -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203005010",
+        "name":  "المصروفات المستحقة -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203006",
+        "name":  "أرصدة دائنة اخرى - متنوعة",
+        "level":  6,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  false
+    },
+    {
+        "code":  "203006001",
+        "name":  "أرصدة دائنة اخرى - حصة الشركة فى أرصدة دائنة اخرى",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203006002",
+        "name":  "أرصدة دائنة اخرى - حصة العامل فى أرصدة دائنة اخرى",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203006003",
+        "name":  "أرصدة دائنة اخرى - الهيئة القومية للتأمينات الاجتماعية",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203006004",
+        "name":  "أرصدة دائنة اخرى - صندوق الشهداء",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203006005",
+        "name":  "أرصدة دائنة اخرى - ضرائب مؤجلة",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203006006",
+        "name":  "أرصدة دائنة اخرى - مساهمة تكافلية افراد - اعانة كرونا",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203006007",
+        "name":  "أرصدة دائنة اخرى -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203006008",
+        "name":  "أرصدة دائنة اخرى -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203006009",
+        "name":  "أرصدة دائنة اخرى -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203006010",
+        "name":  "أرصدة دائنة اخرى -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203007",
+        "name":  "مجمع الإهلاك",
+        "level":  6,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  false
+    },
+    {
+        "code":  "203007001",
+        "name":  "مجمع الإهلاك - الاصول الثابتة -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203007002",
+        "name":  "مجمع الإهلاك - الاصول الثابتة -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203007003",
+        "name":  "مجمع الإهلاك - الاصول الثابتة -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203007004",
+        "name":  "مجمع الإهلاك - الاصول الثابتة -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203007005",
+        "name":  "مجمع الإهلاك - الاصول الثابتة -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203007006",
+        "name":  "مجمع الإهلاك - الاصول الثابتة -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203007007",
+        "name":  "مجمع الإهلاك - الاصول الثابتة -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203007008",
+        "name":  "مجمع الإهلاك - الاصول الثابتة -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203007009",
+        "name":  "مجمع الإهلاك - الاصول الثابتة -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203007010",
+        "name":  "مجمع الإهلاك - الاصول الثابتة -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203007011",
+        "name":  "مجمع الإهلاك - الاصول الثابتة -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203007012",
+        "name":  "مجمع الإهلاك - الاصول الثابتة -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203007013",
+        "name":  "مجمع الإهلاك - الاصول الثابتة -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203007014",
+        "name":  "مجمع الإهلاك - الاصول الثابتة -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203007015",
+        "name":  "مجمع الإهلاك - الاصول الثابتة -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203007016",
+        "name":  "مجمع الإهلاك - الاصول الثابتة -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203007017",
+        "name":  "مجمع الإهلاك - الاصول الثابتة -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203007018",
+        "name":  "مجمع الإهلاك - الاصول الثابتة -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203007019",
+        "name":  "مجمع الإهلاك - الاصول الثابتة -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "203007020",
+        "name":  "مجمع الإهلاك - الاصول الثابتة -",
+        "level":  9,
+        "type":  "liability_equity",
+        "natural_balance":  "credit",
+        "fs_section":  "balance_sheet",
+        "is_subsection":  null,
+        "is_posting":  true
+    },
+    {
+        "code":  "3",
+        "name":  "المصروفات",
+        "level":  1,
+        "type":  "expense",
+        "natural_balance":  "debit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "operating_expenses",
+        "is_posting":  false
+    },
+    {
+        "code":  "301",
+        "name":  "مصروفات العمليات و التشغيل",
+        "level":  3,
+        "type":  "expense",
+        "natural_balance":  "debit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "cost_of_goods_sold",
+        "is_posting":  false
+    },
+    {
+        "code":  "301001",
+        "name":  "مصروفات التشغيل",
+        "level":  6,
+        "type":  "expense",
+        "natural_balance":  "debit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "cost_of_goods_sold",
+        "is_posting":  false
+    },
+    {
+        "code":  "301001001",
+        "name":  "مصروفات التشغيل -  تكلفة مبيعات  - تمور خام",
+        "level":  9,
+        "type":  "expense",
+        "natural_balance":  "debit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "cost_of_goods_sold",
+        "is_posting":  true
+    },
+    {
+        "code":  "301001002",
+        "name":  "مصروفات التشغيل - تكلفة البضاعة - جاهزة للبيع",
+        "level":  9,
+        "type":  "expense",
+        "natural_balance":  "debit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "cost_of_goods_sold",
+        "is_posting":  true
+    },
+    {
+        "code":  "301001003",
+        "name":  "مصروفات التشغيل - تحميل و تنزيل",
+        "level":  9,
+        "type":  "expense",
+        "natural_balance":  "debit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "cost_of_goods_sold",
+        "is_posting":  true
+    },
+    {
+        "code":  "301001004",
+        "name":  "مصروفات التشغيل -  تبخير التمور",
+        "level":  9,
+        "type":  "expense",
+        "natural_balance":  "debit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "cost_of_goods_sold",
+        "is_posting":  true
+    },
+    {
+        "code":  "301001005",
+        "name":  "مصروفات التشغيل -  نقل و نولون",
+        "level":  9,
+        "type":  "expense",
+        "natural_balance":  "debit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "cost_of_goods_sold",
+        "is_posting":  true
+    },
+    {
+        "code":  "301001006",
+        "name":  "مصروفات التشغيل - إعاشة عمال",
+        "level":  9,
+        "type":  "expense",
+        "natural_balance":  "debit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "cost_of_goods_sold",
+        "is_posting":  true
+    },
+    {
+        "code":  "301001007",
+        "name":  "مصروفات التشغيل -  أجور و مرتبات",
+        "level":  9,
+        "type":  "expense",
+        "natural_balance":  "debit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "cost_of_goods_sold",
+        "is_posting":  true
+    },
+    {
+        "code":  "301001008",
+        "name":  "مصروفات التشغيل - تأمينات اجتماعية",
+        "level":  9,
+        "type":  "expense",
+        "natural_balance":  "debit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "cost_of_goods_sold",
+        "is_posting":  true
+    },
+    {
+        "code":  "301001009",
+        "name":  "مصروفات التشغيل -",
+        "level":  9,
+        "type":  "expense",
+        "natural_balance":  "debit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "cost_of_goods_sold",
+        "is_posting":  true
+    },
+    {
+        "code":  "301001010",
+        "name":  "مصروفات التشغيل -",
+        "level":  9,
+        "type":  "expense",
+        "natural_balance":  "debit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "cost_of_goods_sold",
+        "is_posting":  true
+    },
+    {
+        "code":  "301001011",
+        "name":  "مصروفات التشغيل -",
+        "level":  9,
+        "type":  "expense",
+        "natural_balance":  "debit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "cost_of_goods_sold",
+        "is_posting":  true
+    },
+    {
+        "code":  "301001012",
+        "name":  "مصروفات التشغيل -",
+        "level":  9,
+        "type":  "expense",
+        "natural_balance":  "debit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "cost_of_goods_sold",
+        "is_posting":  true
+    },
+    {
+        "code":  "301001013",
+        "name":  "مصروفات التشغيل -",
+        "level":  9,
+        "type":  "expense",
+        "natural_balance":  "debit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "cost_of_goods_sold",
+        "is_posting":  true
+    },
+    {
+        "code":  "301001014",
+        "name":  "مصروفات التشغيل -",
+        "level":  9,
+        "type":  "expense",
+        "natural_balance":  "debit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "cost_of_goods_sold",
+        "is_posting":  true
+    },
+    {
+        "code":  "301001015",
+        "name":  "مصروفات التشغيل -",
+        "level":  9,
+        "type":  "expense",
+        "natural_balance":  "debit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "cost_of_goods_sold",
+        "is_posting":  true
+    },
+    {
+        "code":  "301001016",
+        "name":  "مصروفات التشغيل -",
+        "level":  9,
+        "type":  "expense",
+        "natural_balance":  "debit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "cost_of_goods_sold",
+        "is_posting":  true
+    },
+    {
+        "code":  "301001017",
+        "name":  "مصروفات التشغيل -",
+        "level":  9,
+        "type":  "expense",
+        "natural_balance":  "debit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "cost_of_goods_sold",
+        "is_posting":  true
+    },
+    {
+        "code":  "301001018",
+        "name":  "مصروفات التشغيل -",
+        "level":  9,
+        "type":  "expense",
+        "natural_balance":  "debit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "cost_of_goods_sold",
+        "is_posting":  true
+    },
+    {
+        "code":  "301001019",
+        "name":  "مصروفات التشغيل -",
+        "level":  9,
+        "type":  "expense",
+        "natural_balance":  "debit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "cost_of_goods_sold",
+        "is_posting":  true
+    },
+    {
+        "code":  "301001020",
+        "name":  "مصروفات التشغيل -",
+        "level":  9,
+        "type":  "expense",
+        "natural_balance":  "debit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "cost_of_goods_sold",
+        "is_posting":  true
+    },
+    {
+        "code":  "302",
+        "name":  "مصروفات الإدارة العامة",
+        "level":  3,
+        "type":  "expense",
+        "natural_balance":  "debit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "operating_expenses",
+        "is_posting":  false
+    },
+    {
+        "code":  "302001",
+        "name":  "مصروفات عمومية و إدارية - وتسويقية",
+        "level":  6,
+        "type":  "expense",
+        "natural_balance":  "debit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "operating_expenses",
+        "is_posting":  false
+    },
+    {
+        "code":  "302001001",
+        "name":  "مصروفات  عمومية - أجور و مرتبات",
+        "level":  9,
+        "type":  "expense",
+        "natural_balance":  "debit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "operating_expenses",
+        "is_posting":  true
+    },
+    {
+        "code":  "302001002",
+        "name":  "مصروفات عمومية - إيجار المقر",
+        "level":  9,
+        "type":  "expense",
+        "natural_balance":  "debit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "operating_expenses",
+        "is_posting":  true
+    },
+    {
+        "code":  "302001003",
+        "name":  "مصروفات عمومية - اتصالات و انترنت",
+        "level":  9,
+        "type":  "expense",
+        "natural_balance":  "debit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "operating_expenses",
+        "is_posting":  true
+    },
+    {
+        "code":  "302001004",
+        "name":  "مصروفات عمومية - ادوات مكتبية وتصوير و أحبار",
+        "level":  9,
+        "type":  "expense",
+        "natural_balance":  "debit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "operating_expenses",
+        "is_posting":  true
+    },
+    {
+        "code":  "302001005",
+        "name":  "مصروفات عمومية - مصاريف كمبيوتر ، وبرامج",
+        "level":  9,
+        "type":  "expense",
+        "natural_balance":  "debit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "operating_expenses",
+        "is_posting":  true
+    },
+    {
+        "code":  "302001006",
+        "name":  "مصروفات عمومية - بوفية و ضيافة",
+        "level":  9,
+        "type":  "expense",
+        "natural_balance":  "debit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "operating_expenses",
+        "is_posting":  true
+    },
+    {
+        "code":  "302001007",
+        "name":  "مصروفات عمومية - مصاريف سيارات",
+        "level":  9,
+        "type":  "expense",
+        "natural_balance":  "debit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "operating_expenses",
+        "is_posting":  true
+    },
+    {
+        "code":  "302001008",
+        "name":  "مصروفات عمومية - كهرباء",
+        "level":  9,
+        "type":  "expense",
+        "natural_balance":  "debit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "operating_expenses",
+        "is_posting":  true
+    },
+    {
+        "code":  "302001009",
+        "name":  "مصروفات عمومية - مستلزمات طبية",
+        "level":  9,
+        "type":  "expense",
+        "natural_balance":  "debit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "operating_expenses",
+        "is_posting":  true
+    },
+    {
+        "code":  "302001010",
+        "name":  "مصروفات عمومية - أتعاب محاماه",
+        "level":  9,
+        "type":  "expense",
+        "natural_balance":  "debit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "operating_expenses",
+        "is_posting":  true
+    },
+    {
+        "code":  "302001011",
+        "name":  "مصروفات عمومية - مصروفات وعمولات بنكية",
+        "level":  9,
+        "type":  "expense",
+        "natural_balance":  "debit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "operating_expenses",
+        "is_posting":  true
+    },
+    {
+        "code":  "302001012",
+        "name":  "مصروفات عمومية -",
+        "level":  9,
+        "type":  "expense",
+        "natural_balance":  "debit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "operating_expenses",
+        "is_posting":  true
+    },
+    {
+        "code":  "302001013",
+        "name":  "مصروفات عمومية - تأمينات اجتماعية",
+        "level":  9,
+        "type":  "expense",
+        "natural_balance":  "debit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "operating_expenses",
+        "is_posting":  true
+    },
+    {
+        "code":  "302001014",
+        "name":  "مصروفات عمومية - مراقبين حسابات",
+        "level":  9,
+        "type":  "expense",
+        "natural_balance":  "debit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "operating_expenses",
+        "is_posting":  true
+    },
+    {
+        "code":  "302001015",
+        "name":  "مصروفات عمومية - انتقالات",
+        "level":  9,
+        "type":  "expense",
+        "natural_balance":  "debit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "operating_expenses",
+        "is_posting":  true
+    },
+    {
+        "code":  "302001016",
+        "name":  "مصروفات عمومية - إكراميات",
+        "level":  9,
+        "type":  "expense",
+        "natural_balance":  "debit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "operating_expenses",
+        "is_posting":  true
+    },
+    {
+        "code":  "302001017",
+        "name":  "مصروفات عمومية - مصاريف إدارية متنوعة",
+        "level":  9,
+        "type":  "expense",
+        "natural_balance":  "debit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "operating_expenses",
+        "is_posting":  true
+    },
+    {
+        "code":  "302001018",
+        "name":  "مصروفات عمومية - دعاية و إعلان",
+        "level":  9,
+        "type":  "expense",
+        "natural_balance":  "debit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "operating_expenses",
+        "is_posting":  true
+    },
+    {
+        "code":  "302001019",
+        "name":  "مصروفات عمومية - مصروف اهلاك الاصول الثابتة",
+        "level":  9,
+        "type":  "expense",
+        "natural_balance":  "debit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "operating_expenses",
+        "is_posting":  true
+    },
+    {
+        "code":  "302001020",
+        "name":  "مصروفات عمومية - رسوم - دمغات - غرامات",
+        "level":  9,
+        "type":  "expense",
+        "natural_balance":  "debit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "operating_expenses",
+        "is_posting":  true
+    },
+    {
+        "code":  "302001021",
+        "name":  "مصروفات عمومية - رسوم طريق",
+        "level":  9,
+        "type":  "expense",
+        "natural_balance":  "debit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "operating_expenses",
+        "is_posting":  true
+    },
+    {
+        "code":  "302001022",
+        "name":  "مصروفات عمومية - مصروفات بريدية",
+        "level":  9,
+        "type":  "expense",
+        "natural_balance":  "debit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "operating_expenses",
+        "is_posting":  true
+    },
+    {
+        "code":  "302001023",
+        "name":  "مصروفات عمومية -",
+        "level":  9,
+        "type":  "expense",
+        "natural_balance":  "debit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "operating_expenses",
+        "is_posting":  true
+    },
+    {
+        "code":  "302001024",
+        "name":  "مصروفات عمومية - استشارات و خدمات تأمينية",
+        "level":  9,
+        "type":  "expense",
+        "natural_balance":  "debit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "operating_expenses",
+        "is_posting":  true
+    },
+    {
+        "code":  "302001025",
+        "name":  "مصروفات عمومية -  حوافز و مكافأت",
+        "level":  9,
+        "type":  "expense",
+        "natural_balance":  "debit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "operating_expenses",
+        "is_posting":  true
+    },
+    {
+        "code":  "302001026",
+        "name":  "مصروفات عمومية -  مصروفات سفر",
+        "level":  9,
+        "type":  "expense",
+        "natural_balance":  "debit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "operating_expenses",
+        "is_posting":  true
+    },
+    {
+        "code":  "302001027",
+        "name":  "مصروفات عمومية - مصاريف صيانة و نظافة",
+        "level":  9,
+        "type":  "expense",
+        "natural_balance":  "debit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "operating_expenses",
+        "is_posting":  true
+    },
+    {
+        "code":  "302001028",
+        "name":  "مصروفات عمومية - مساهمة تكافلية - تأمين صحى",
+        "level":  9,
+        "type":  "expense",
+        "natural_balance":  "debit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "operating_expenses",
+        "is_posting":  true
+    },
+    {
+        "code":  "302001029",
+        "name":  "مصروفات عمومية -",
+        "level":  9,
+        "type":  "expense",
+        "natural_balance":  "debit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "operating_expenses",
+        "is_posting":  true
+    },
+    {
+        "code":  "302001030",
+        "name":  "مصروفات عمومية -",
+        "level":  9,
+        "type":  "expense",
+        "natural_balance":  "debit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "operating_expenses",
+        "is_posting":  true
+    },
+    {
+        "code":  "302001031",
+        "name":  "مصروفات عمومية -",
+        "level":  9,
+        "type":  "expense",
+        "natural_balance":  "debit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "operating_expenses",
+        "is_posting":  true
+    },
+    {
+        "code":  "302001032",
+        "name":  "مصروفات عمومية -",
+        "level":  9,
+        "type":  "expense",
+        "natural_balance":  "debit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "operating_expenses",
+        "is_posting":  true
+    },
+    {
+        "code":  "302001033",
+        "name":  "مصروفات عمومية -",
+        "level":  9,
+        "type":  "expense",
+        "natural_balance":  "debit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "operating_expenses",
+        "is_posting":  true
+    },
+    {
+        "code":  "302001034",
+        "name":  "مصروفات عمومية -",
+        "level":  9,
+        "type":  "expense",
+        "natural_balance":  "debit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "operating_expenses",
+        "is_posting":  true
+    },
+    {
+        "code":  "302001035",
+        "name":  "مصروفات عمومية -",
+        "level":  9,
+        "type":  "expense",
+        "natural_balance":  "debit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "operating_expenses",
+        "is_posting":  true
+    },
+    {
+        "code":  "302001036",
+        "name":  "مصروفات عمومية -",
+        "level":  9,
+        "type":  "expense",
+        "natural_balance":  "debit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "operating_expenses",
+        "is_posting":  true
+    },
+    {
+        "code":  "302001037",
+        "name":  "مصروفات عمومية -",
+        "level":  9,
+        "type":  "expense",
+        "natural_balance":  "debit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "operating_expenses",
+        "is_posting":  true
+    },
+    {
+        "code":  "302001038",
+        "name":  "مصروفات عمومية -",
+        "level":  9,
+        "type":  "expense",
+        "natural_balance":  "debit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "operating_expenses",
+        "is_posting":  true
+    },
+    {
+        "code":  "302001039",
+        "name":  "مصروفات عمومية -",
+        "level":  9,
+        "type":  "expense",
+        "natural_balance":  "debit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "operating_expenses",
+        "is_posting":  true
+    },
+    {
+        "code":  "302001040",
+        "name":  "مصروفات عمومية -",
+        "level":  9,
+        "type":  "expense",
+        "natural_balance":  "debit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "operating_expenses",
+        "is_posting":  true
+    },
+    {
+        "code":  "4",
+        "name":  "الإيردادت",
+        "level":  1,
+        "type":  "revenue",
+        "natural_balance":  "credit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "other_income",
+        "is_posting":  false
+    },
+    {
+        "code":  "401",
+        "name":  "إيرادات مباشرة",
+        "level":  3,
+        "type":  "revenue",
+        "natural_balance":  "credit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "revenue",
+        "is_posting":  false
+    },
+    {
+        "code":  "401001",
+        "name":  "إيرادات المشاريع",
+        "level":  6,
+        "type":  "revenue",
+        "natural_balance":  "credit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "revenue",
+        "is_posting":  false
+    },
+    {
+        "code":  "401001001",
+        "name":  "إيرادات - مبيعات تمور خام",
+        "level":  9,
+        "type":  "revenue",
+        "natural_balance":  "credit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "revenue",
+        "is_posting":  true
+    },
+    {
+        "code":  "401001002",
+        "name":  "إيرادات - مبيعات  تمود جاهزة للبيع",
+        "level":  9,
+        "type":  "revenue",
+        "natural_balance":  "credit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "revenue",
+        "is_posting":  true
+    },
+    {
+        "code":  "401001003",
+        "name":  "إيرادات -",
+        "level":  9,
+        "type":  "revenue",
+        "natural_balance":  "credit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "revenue",
+        "is_posting":  true
+    },
+    {
+        "code":  "401001004",
+        "name":  "إيرادات -",
+        "level":  9,
+        "type":  "revenue",
+        "natural_balance":  "credit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "revenue",
+        "is_posting":  true
+    },
+    {
+        "code":  "401001005",
+        "name":  "إيرادات -",
+        "level":  9,
+        "type":  "revenue",
+        "natural_balance":  "credit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "revenue",
+        "is_posting":  true
+    },
+    {
+        "code":  "401001006",
+        "name":  "إيرادات -",
+        "level":  9,
+        "type":  "revenue",
+        "natural_balance":  "credit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "revenue",
+        "is_posting":  true
+    },
+    {
+        "code":  "401001007",
+        "name":  "إيرادات -",
+        "level":  9,
+        "type":  "revenue",
+        "natural_balance":  "credit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "revenue",
+        "is_posting":  true
+    },
+    {
+        "code":  "401001008",
+        "name":  "إيرادات -",
+        "level":  9,
+        "type":  "revenue",
+        "natural_balance":  "credit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "revenue",
+        "is_posting":  true
+    },
+    {
+        "code":  "401001009",
+        "name":  "إيرادات -",
+        "level":  9,
+        "type":  "revenue",
+        "natural_balance":  "credit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "revenue",
+        "is_posting":  true
+    },
+    {
+        "code":  "401001010",
+        "name":  "إيرادات -",
+        "level":  9,
+        "type":  "revenue",
+        "natural_balance":  "credit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "revenue",
+        "is_posting":  true
+    },
+    {
+        "code":  "401001011",
+        "name":  "إيرادات -",
+        "level":  9,
+        "type":  "revenue",
+        "natural_balance":  "credit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "revenue",
+        "is_posting":  true
+    },
+    {
+        "code":  "401001012",
+        "name":  "إيرادات -",
+        "level":  9,
+        "type":  "revenue",
+        "natural_balance":  "credit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "revenue",
+        "is_posting":  true
+    },
+    {
+        "code":  "401001013",
+        "name":  "إيرادات -",
+        "level":  9,
+        "type":  "revenue",
+        "natural_balance":  "credit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "revenue",
+        "is_posting":  true
+    },
+    {
+        "code":  "401001014",
+        "name":  "إيرادات -",
+        "level":  9,
+        "type":  "revenue",
+        "natural_balance":  "credit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "revenue",
+        "is_posting":  true
+    },
+    {
+        "code":  "401001015",
+        "name":  "إيرادات -",
+        "level":  9,
+        "type":  "revenue",
+        "natural_balance":  "credit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "revenue",
+        "is_posting":  true
+    },
+    {
+        "code":  "401001016",
+        "name":  "إيرادات -",
+        "level":  9,
+        "type":  "revenue",
+        "natural_balance":  "credit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "revenue",
+        "is_posting":  true
+    },
+    {
+        "code":  "401001017",
+        "name":  "إيرادات -",
+        "level":  9,
+        "type":  "revenue",
+        "natural_balance":  "credit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "revenue",
+        "is_posting":  true
+    },
+    {
+        "code":  "401001018",
+        "name":  "إيرادات -",
+        "level":  9,
+        "type":  "revenue",
+        "natural_balance":  "credit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "revenue",
+        "is_posting":  true
+    },
+    {
+        "code":  "401001019",
+        "name":  "إيرادات -",
+        "level":  9,
+        "type":  "revenue",
+        "natural_balance":  "credit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "revenue",
+        "is_posting":  true
+    },
+    {
+        "code":  "401001020",
+        "name":  "إيرادات -",
+        "level":  9,
+        "type":  "revenue",
+        "natural_balance":  "credit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "revenue",
+        "is_posting":  true
+    },
+    {
+        "code":  "402",
+        "name":  "الإيرادات غير مباشرة",
+        "level":  3,
+        "type":  "revenue",
+        "natural_balance":  "credit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "other_income",
+        "is_posting":  false
+    },
+    {
+        "code":  "402001",
+        "name":  "إيرادات غير مباشرة",
+        "level":  6,
+        "type":  "revenue",
+        "natural_balance":  "credit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "other_income",
+        "is_posting":  false
+    },
+    {
+        "code":  "402001001",
+        "name":  "إيرادات غير مباشرة - فوائد بنكية",
+        "level":  9,
+        "type":  "revenue",
+        "natural_balance":  "credit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "other_income",
+        "is_posting":  true
+    },
+    {
+        "code":  "402001002",
+        "name":  "إيرادات غير مباشرة - خصم مكتسب",
+        "level":  9,
+        "type":  "revenue",
+        "natural_balance":  "credit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "other_income",
+        "is_posting":  true
+    },
+    {
+        "code":  "402001003",
+        "name":  "إيرادات غير مباشرة - ارباح وخسائر تقيم عملة",
+        "level":  9,
+        "type":  "revenue",
+        "natural_balance":  "credit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "other_income",
+        "is_posting":  true
+    },
+    {
+        "code":  "402001004",
+        "name":  "إيرادات غير مباشرة -  فوائد مكتسبة",
+        "level":  9,
+        "type":  "revenue",
+        "natural_balance":  "credit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "other_income",
+        "is_posting":  true
+    },
+    {
+        "code":  "402001005",
+        "name":  "إيرادات غير مباشرة -",
+        "level":  9,
+        "type":  "revenue",
+        "natural_balance":  "credit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "other_income",
+        "is_posting":  true
+    },
+    {
+        "code":  "402001006",
+        "name":  "إيرادات غير مباشرة -",
+        "level":  9,
+        "type":  "revenue",
+        "natural_balance":  "credit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "other_income",
+        "is_posting":  true
+    },
+    {
+        "code":  "402001007",
+        "name":  "إيرادات غير مباشرة -",
+        "level":  9,
+        "type":  "revenue",
+        "natural_balance":  "credit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "other_income",
+        "is_posting":  true
+    },
+    {
+        "code":  "402001008",
+        "name":  "إيرادات غير مباشرة -",
+        "level":  9,
+        "type":  "revenue",
+        "natural_balance":  "credit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "other_income",
+        "is_posting":  true
+    },
+    {
+        "code":  "402001009",
+        "name":  "إيرادات غير مباشرة -",
+        "level":  9,
+        "type":  "revenue",
+        "natural_balance":  "credit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "other_income",
+        "is_posting":  true
+    },
+    {
+        "code":  "402001010",
+        "name":  "إيرادات غير مباشرة -",
+        "level":  9,
+        "type":  "revenue",
+        "natural_balance":  "credit",
+        "fs_section":  "income_statement",
+        "is_subsection":  "other_income",
+        "is_posting":  true
+    }
+]
+,
+  journals: [
+    {
+        "id":  "seed-journal-1",
+        "no":  "1",
+        "workbook_no":  "1",
+        "date":  "2026-01-05",
+        "description":  "",
+        "cost_center":  "",
+        "reference_no":  "",
+        "lines":  [
+                      {
+                          "code":  "105001003",
+                          "name":  "مخزون - ثلاجة رقم 1 - تمور جاهزة للبيع",
+                          "dr":  100000,
+                          "cr":  0,
+                          "type":  "Asset"
+                      },
+                      {
+                          "code":  "203001001",
+                          "name":  "الموردين -",
+                          "dr":  0,
+                          "cr":  100000,
+                          "type":  "Liability/Equity"
+                      }
+                  ]
+    },
+    {
+        "id":  "seed-journal-2",
+        "no":  "2",
+        "workbook_no":  "2",
+        "date":  "2026-01-10",
+        "description":  "",
+        "cost_center":  "",
+        "reference_no":  "",
+        "lines":  [
+                      {
+                          "code":  "103001001",
+                          "name":  "عملاء - محليين -",
+                          "dr":  180000,
+                          "cr":  0,
+                          "type":  "Asset"
+                      },
+                      {
+                          "code":  "401001002",
+                          "name":  "إيرادات - مبيعات  تمود جاهزة للبيع",
+                          "dr":  0,
+                          "cr":  180000,
+                          "type":  "Revenue"
+                      }
+                  ]
+    },
+    {
+        "id":  "seed-journal-3",
+        "no":  "3",
+        "workbook_no":  "3",
+        "date":  "2026-01-10",
+        "description":  "",
+        "cost_center":  "",
+        "reference_no":  "",
+        "lines":  [
+                      {
+                          "code":  "301001002",
+                          "name":  "مصروفات التشغيل - تكلفة البضاعة - جاهزة للبيع",
+                          "dr":  70000,
+                          "cr":  0,
+                          "type":  "Expense"
+                      },
+                      {
+                          "code":  "105001003",
+                          "name":  "مخزون - ثلاجة رقم 1 - تمور جاهزة للبيع",
+                          "dr":  0,
+                          "cr":  70000,
+                          "type":  "Asset"
+                      }
+                  ]
+    },
+    {
+        "id":  "seed-journal-4",
+        "no":  "4",
+        "workbook_no":  "4",
+        "date":  "2026-01-15",
+        "description":  "",
+        "cost_center":  "",
+        "reference_no":  "",
+        "lines":  [
+                      {
+                          "code":  "203001001",
+                          "name":  "الموردين -",
+                          "dr":  40000,
+                          "cr":  0,
+                          "type":  "Liability/Equity"
+                      },
+                      {
+                          "code":  "102001004",
+                          "name":  "حساب نقدية بالصندوق",
+                          "dr":  0,
+                          "cr":  40000,
+                          "type":  "Asset"
+                      }
+                  ]
+    }
+],
+  openingBalances: {
+  "102001004": {
+    "dr": 500000,
+    "cr": 0
+  },
+  "201001001": {
+    "dr": 0,
+    "cr": 500000
+  }
+}
+
+};

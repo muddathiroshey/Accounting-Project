@@ -1,0 +1,52 @@
+[
+    {
+        "id":  "seed-journal-1",
+        "no":  "1",
+        "workbook_no":  "1",
+        "date":  "2026-01-05",
+        "description":  "",
+        "cost_center":  "",
+        "reference_no":  "",
+        "lines":  [
+                      {
+                          "code":  "105001003",
+                          "name":  "مخزون - ثلاجة رقم 1 - تمور جاهزة للبيع",
+                          "dr":  100000,
+                          "cr":  0,
+                          "type":  "Asset"
+                      },
+                      {
+                          "code":  "203001001",
+                          "name":  "الموردين -",
+                          "dr":  0,
+                          "cr":  100000,
+                          "type":  "Liability/Equity"
+                      }
+                  ]
+    },
+    {
+        "id":  "seed-journal-2",
+        "no":  "2",
+        "workbook_no":  "2",
+        "date":  "2026-01-10",
+        "description":  "",
+        "cost_center":  "",
+        "reference_no":  "",
+        "lines":  [
+                      {
+                          "code":  "103001001",
+                          "name":  "عملاء - محليين -",
+                          "dr":  180000,
+                          "cr":  0,
+                          "type":  "Asset"
+                      },
+                      {
+                          "code":  "401001002",
+                          "name":  "إيرادات - مبيعات  تمود جاهزة للبيع",
+                          "dr":  0,
+                          "cr":  180000,
+                          "type":  "Revenue"
+                      }
+                  ]
+    }
+]
